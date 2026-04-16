@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Matt JLou Naparota
 
-<!--
-**333hydrasdgdfgd/333hydrasdgdfgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student focused on technology, data, and building practical systems. I enjoy creating simple and efficient solutions that solve real-world problems.
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python • Excel • Google Sheets • HTML/CSS • Data Analysis • Automation
+
+Projects
+Attendance & Merit-Demerit System
+Sales and Expense Tracker
+Student Budgeting Research
+Focus
+
+Improving technical skills, building useful systems, and exploring data-driven solutions.
